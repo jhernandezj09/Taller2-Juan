@@ -1,4 +1,4 @@
-prueba = 7
+prueba = 10
 lista = [1,2,3,4,5]
 for i in lista:
     prueba += i
@@ -9,3 +9,7 @@ print(prueba)
 suma = 0
 nueva_variable = {"hola": 1, "chao": 2}
 print(nueva_variable["hola"])
+
+lista.append(10)
+
+print(lista)
