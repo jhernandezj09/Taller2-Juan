@@ -13,3 +13,10 @@ print(nueva_variable["hola"])
 lista.append(10)
 
 print(lista)
+
+for i in lista:
+    suma += i
+
+print(suma)
+print("Fin del programa")
+
